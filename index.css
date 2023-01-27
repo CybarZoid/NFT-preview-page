@@ -1,0 +1,71 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+}
+
+.Container {
+    background-color: hsl(216, 50%, 16%);
+    margin: auto;
+    text-align: left;
+    padding: 1.5em;
+    width: 40ch;
+    border-radius: 1rem;
+}
+
+.Content {
+    display: block;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    width: 40ch;
+    margin: auto;
+    border-radius: .4rem;
+}
+
+h1 {
+    color: hsl(0, 0%, 100%);
+    font-family: 'Outfit', sans-serif;
+}
+
+p {
+    color: hsl(215, 51%, 70%);
+    font-size: 18px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 300;
+}
+
+.A {
+    display: flex;
+    color: hsl(178, 100%, 50%);
+}
+
+.A_P {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+#Ethereum {
+    max-width: .9ch;
+}
+
+.P {
+    display: flex;
+}
+
+#Clock {
+    max-width: 1.4ch;
+}
+
+
+
+.Avatar {
+    display: flex;
+}
+
+#Avatar {
+    border: 1px solid white;
+    border-radius: 50%;
+    max-width: 4ch;
+}
